@@ -1,12 +1,12 @@
-### Call Center Analytics: Unveiling Insights for Business Optimization
+## Call Center Analytics: Unveiling Insights for Business Optimization
 ---
 
-#### Case Description
+### Case Description
 Welcome to the repository of our comprehensive analysis of call center data using **Qlik Sense**. As a business analyst working for a leading call center company, we have delved into the extensive dataset, meticulously analyzing key performance indicators (KPIs) to provide actionable insights for informed decision-making. Through visually appealing dashboards and compelling storytelling, we present a detailed overview of call center performance, customer segmentation, regional trends, and operator efficiency. Let's embark on this journey of exploration and discovery.
 
 ---
 
-#### The Analysis and the provided report covers the following sections:
+### The Analysis and the provided report covers the following sections:
 
 Section 1: Overview
 
@@ -42,6 +42,6 @@ Finally, we weave together the key findings from questions 1, 2, 3, 4, 6, 7, 8, 
 
 --- 
 
-Conclusion:
+### Conclusion:
 
 Through the power of Qlik Sense, our analysis has unveiled invaluable insights for enhancing call center performance. By understanding key metrics such as the total number of calls, customer segmentation, regional trends, operator efficiency, and customer satisfaction, businesses can make data-driven decisions to drive growth, improve customer experience, and optimize operations. Together, let us embark on this journey of transformation, leveraging the power of analytics to unlock the full potential of the call center.
