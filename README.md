@@ -4,6 +4,8 @@
 #### Case Description
 Welcome to the repository of our comprehensive analysis of call center data using **Qlik Sense**. As a business analyst working for a leading call center company, we have delved into the extensive dataset, meticulously analyzing key performance indicators (KPIs) to provide actionable insights for informed decision-making. Through visually appealing dashboards and compelling storytelling, we present a detailed overview of call center performance, customer segmentation, regional trends, and operator efficiency. Let's embark on this journey of exploration and discovery.
 
+---
+
 #### The Analysis and the provided report covers the following sections:
 
 Section 1: Overview
