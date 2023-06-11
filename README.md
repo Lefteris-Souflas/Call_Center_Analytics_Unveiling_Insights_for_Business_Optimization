@@ -40,6 +40,8 @@ Section 8: Call Center Analytics Storytelling
 
 Finally, we weave together the key findings from questions 1, 2, 3, 4, 6, 7, 8, 9, and 11, constructing a compelling storytelling experience. Through engaging visuals, we provide a captivating narrative that highlights important information, contextualizes insights, and presents actionable recommendations for optimizing call center operations.
 
+--- 
+
 Conclusion:
 
 Through the power of Qlik Sense, our analysis has unveiled invaluable insights for enhancing call center performance. By understanding key metrics such as the total number of calls, customer segmentation, regional trends, operator efficiency, and customer satisfaction, businesses can make data-driven decisions to drive growth, improve customer experience, and optimize operations. Together, let us embark on this journey of transformation, leveraging the power of analytics to unlock the full potential of the call center.
