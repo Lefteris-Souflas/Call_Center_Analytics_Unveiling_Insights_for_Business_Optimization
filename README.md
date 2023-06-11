@@ -28,6 +28,9 @@ Section 5: Correlation Analysis
 
 We explore the correlation between the percentage of satisfaction and call duration per sector. By identifying any potential relationships between these variables, we can pinpoint areas that require attention to enhance customer experience.
 
+![2](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/efac0a4e-652f-4f1d-8498-07495f9c53cd)
+
+
 Section 6: Country and Operator Performance
 
 In this section, we focus on analyzing the average call satisfaction and call duration. Additionally, we identify the top 10 operators based on the number of calls, providing insights into operator efficiency and performance.
@@ -35,6 +38,9 @@ In this section, we focus on analyzing the average call satisfaction and call du
 Section 7: Geographical and Sectorial Insights
 
 We showcase the number of calls per country using a map visualization and per sector using a chart, providing a comprehensive overview of call distribution. Furthermore, we examine the distribution of calls between Europe and America, offering valuable insights into regional performance.
+
+![1](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/900bc202-1f3e-4772-818f-9ec634d358ce)
+
 
 Section 8: Call Center Analytics Storytelling
 
