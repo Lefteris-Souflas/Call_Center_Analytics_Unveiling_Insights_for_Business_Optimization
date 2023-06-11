@@ -46,6 +46,9 @@ Section 8: Call Center Analytics Storytelling
 
 Finally, we weave together the key findings from questions 1, 2, 3, 4, 6, 7, 8, 9, and 11, constructing a compelling storytelling experience. Through engaging visuals, we provide a captivating narrative that highlights important information, contextualizes insights, and presents actionable recommendations for optimizing call center operations.
 
+![image](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/7204e434-8c5d-4dee-8cba-d98761ca7e6e)
+
+!**Note**
 --- 
 
 ### Conclusion:
