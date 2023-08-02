@@ -28,8 +28,6 @@ Section 5: Correlation Analysis
 
 We explore the correlation between the percentage of satisfaction and call duration per sector. By identifying any potential relationships between these variables, we can pinpoint areas that require attention to enhance customer experience.
 
-![2](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/efac0a4e-652f-4f1d-8498-07495f9c53cd)
-
 
 Section 6: Country and Operator Performance
 
@@ -39,14 +37,10 @@ Section 7: Geographical and Sectorial Insights
 
 We showcase the number of calls per country using a map visualization and per sector using a chart, providing a comprehensive overview of call distribution. Furthermore, we examine the distribution of calls between Europe and America, offering valuable insights into regional performance.
 
-![1](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/900bc202-1f3e-4772-818f-9ec634d358ce)
-
 
 Section 8: Call Center Analytics Storytelling
 
 Finally, we weave together the key findings from questions 1, 2, 3, 4, 6, 7, 8, 9, and 11, constructing a compelling storytelling experience. Through engaging visuals, we provide a captivating narrative that highlights important information, contextualizes insights, and presents actionable recommendations for optimizing call center operations.
-
-![image](https://github.com/dmatsanganis/Call_Center_Analytics_Unveiling_Insights_for_Business_Optimization/assets/34712449/7204e434-8c5d-4dee-8cba-d98761ca7e6e)
 
 **Note:** To access the final Analysis Presentation/Storytelling you need to load the app (.qvf) to Qlik Sense. Otherwise, the format will be modified. 
 
