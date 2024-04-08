@@ -68,6 +68,6 @@ Through the power of Qlik Sense, our analysis has unveiled invaluable insights f
 
 - [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
 - [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
-- [x] [Lefteris Souflas](https://github.com/CodeNinjaTech)
+- [x] [Lefteris Souflas](https://github.com/Lefteris-Souflas)
 
 [![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-Product-green)](https://help.qlik.com/en-US/sense/February2021/Content/Sense_Helpsites/Home.htm)
