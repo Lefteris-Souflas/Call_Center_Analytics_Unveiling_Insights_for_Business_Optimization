@@ -1,4 +1,7 @@
 ## Call Center Analytics: Unveiling Insights for Business Optimization
+
+Assignment 2 for the Analytics Practicum II Course of AUEB's MSc in Business Analytics
+
 ---
 
 ### Case Description
